@@ -1,4 +1,4 @@
-Overview
+Overview<br>
 This project is a simple Maze Solver implemented in Java as part of the COMP 282 course project at California State University, Northridge. The program uses a backtracking algorithm to navigate through a maze, starting at the top-left corner and aiming to reach the exit at the bottom-right corner. The user can observe the program as it explores different paths and backtracks when necessary until it finds the exit.
 
 Features
